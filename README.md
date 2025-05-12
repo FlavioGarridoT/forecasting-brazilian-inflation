@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O estudo sobre inflação no Brasil é um tema recorrente, tanto pelo histórico de alta inflação e planos de estabilização malsucedidos, quanto por ser um país emergente que, em regra, são países que possuem taxas de inflações menos controladas do que as de países desenvolvidos.
+O estudo sobre inflação no Brasil é um tema recorrente, tanto pelo histórico de alta inflação e planos de estabilização malsucedidos, quanto por ser um país emergente que, em regra, são países que possuem taxas de inflação menos controladas do que as de países desenvolvidos.
 
 Um outro motivo para se analisar a inflação tem a ver com o aumento de técnicas computacionais robustas em tarefas de previsão, como os modelos de `machine learning`. Com a revolução na ciência de dados, os economistas passaram a incorporar cada vez mais esses novos algoritmos em suas pesquisas. 
 
